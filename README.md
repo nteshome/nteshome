@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nteshome
-- 👀 I’m interested in codieng
+- 👀 I’m interested in codeing
 - 🌱 I’m currently learning computer c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
